@@ -11,5 +11,5 @@ const App = () => (
     <Route path="/contact" component={Contact}/>
   </div>
 );
-
+  
 export default App;
